@@ -1,446 +1,164 @@
-<!-- =========================================================
-     SUDHAN M — GITHUB PROFILE README
-     ========================================================= --><!-- ========================= HEADER ========================= --><h1 align="center">👋 Hi, I'm Sudhan M</h1><h3 align="center">
-  🎓 B.Tech Information Technology Student
-  <br>
-  💻 Aspiring Full Stack Developer
-  <br>
-  🤖 Python & AI/ML Enthusiast
-</h3><p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=B.Tech+Information+Technology+Student;Python+%7C+Java+%7C+JavaScript;Full+Stack+Web+Development;Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%26+OpenCV;Building+Practical+IT+Applications"
-    alt="Typing SVG"
-  />
-</p><p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sudhanit&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge"
-    alt="Profile Views"
-  /><img
-src="https://img.shields.io/github/followers/sudhanit?label=FOLLOWERS&style=for-the-badge&color=181717"
-alt="GitHub Followers"
-/>
+<!-- ======================= HEADER BANNER ======================= -->
+<div align="center">
 
-</p>---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sudhan%20M&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AIML%20Enthusiast&descSize=20&descAlignY=58" width="100%" />
 
-👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%3E+B.Tech+Information+Technology;%3E+Java+%7C+Python+%7C+SQL;%3E+Building+AI+%2B+Web+Projects;%3E+Learning+something+new+every+day" alt="Typing SVG" />
 
-I'm Sudhan M, a dedicated and enthusiastic B.Tech Information Technology student with a strong foundation in programming, web technologies, front-end development, Python, and database management.
+<br/>
 
-I enjoy developing practical and user-friendly IT applications and continuously improving my technical and problem-solving skills.
+<a href="https://github.com/sudhanit"><img src="https://komarev.com/ghpvc/?username=sudhanit&label=Profile%20Views&color=0e75b6&style=for-the-badge" /></a>
+<a href="https://github.com/sudhanit?tab=followers"><img src="https://img.shields.io/github/followers/sudhanit?label=Followers&style=for-the-badge&color=8a2be2" /></a>
+<img src="https://img.shields.io/badge/Location-Salem%2C%20Tamil%20Nadu-ff69b4?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-╔══════════════════════════════════════════════════╗
-║                    SUDHAN M                      ║
-╠══════════════════════════════════════════════════╣
-║ 🎓 B.Tech Information Technology                ║
-║ 💻 Aspiring Full Stack Developer                 ║
-║ 🐍 Python Developer                              ║
-║ 🤖 AI / Machine Learning Enthusiast              ║
-║ 👁️ Computer Vision & OpenCV                     ║
-║ 🌐 Web Development                               ║
-║ 🧠 Problem Solving                               ║
-║ 📍 Salem, Tamil Nadu, India                      ║
-╚══════════════════════════════════════════════════╝
+</div>
 
-🚀 What I Do
+<br/>
 
-- 💻 Develop web applications
-- 🐍 Build applications using Python
-- 🤖 Explore Artificial Intelligence & Machine Learning
-- 👁️ Work with Computer Vision and OpenCV
-- 🌐 Learn Full Stack Development
-- 🗄️ Work with SQL and MongoDB
-- 🧠 Solve programming and technical problems
-- 🚀 Build practical real-world projects
+<!-- ======================= ABOUT ======================= -->
+## 👨‍💻 About Me
 
----
+```json
+{
+  "name": "Sudhan M",
+  "role": "Aspiring Full Stack Developer",
+  "education": "B.Tech Information Technology",
+  "location": "Salem, Tamil Nadu, India",
+  "interests": ["Artificial Intelligence", "Machine Learning", "Problem Solving"],
+  "currentlyImproving": ["Java", "Python", "SQL", "Web Development"],
+  "motto": "Build real projects. Learn in public. Repeat. 🚀"
+}
+```
 
-🎓 Education
+<br/>
 
-🏫 Mahendra Institute of Technology, Namakkal
+<!-- ======================= TECH STACK ======================= -->
+## 🛠️ Tech Stack
 
-B.Tech – Information Technology
+<div align="center">
 
-📅 2023 – 2027
+| Category | Technologies |
+|:--|:--|
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" /> |
+| 🌐 **Web** | <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,nodejs" /> |
+| 🗄️ **Database** | <img src="https://skillicons.dev/icons?i=mysql,firebase" /> |
+| 🤖 **AI / ML** | <img src="https://skillicons.dev/icons?i=python,tensorflow" /> |
+| 🔧 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" /> |
 
-📊 CGPA: 8.44
+</div>
 
----
+<br/>
 
-🏫 Government Model School, Tharamangalam, Salem
+<!-- ======================= PROJECTS ======================= -->
+## 🚀 Featured Projects
 
-Higher Secondary – XII
+<table>
+<tr>
+<td width="50%" valign="top">
 
-📅 2022 – 2023
+### 🧴 Skin Care Detection
+Detects skin-related conditions using image processing and machine learning.
 
-📊 Percentage: 65%
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-8A2BE2?style=flat-square)
 
----
+</td>
+<td width="50%" valign="top">
 
-🏫 Government Model School, Tharamangalam, Salem
+### 🍔 FoodFlow
+Food ordering and management web app for easy ordering, billing and order tracking.
 
-Secondary – X
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-📅 2020 – 2021
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-📊 Percentage: 60%
+### 💧 AquaGuard IoT
+Smart sewage monitoring and water quality prediction to flag risks early.
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-💼 Professional Experience
+</td>
+<td width="50%" valign="top">
 
-🐍 Sparttron Tech Solution
+### 📄 RAG PDF Q&A Bot
+Upload a PDF and ask questions about it using retrieval-augmented generation.
 
-Python Programming — Remote
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
 
-📅 June 2025 – July 2025
+</td>
+</tr>
+</table>
 
-Experience
+<div align="center">
+<a href="https://github.com/sudhanit?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories-%E2%86%92-36BCF7?style=for-the-badge" /></a>
+</div>
 
-- Developed Python-based applications using programming concepts.
-- Applied logical problem-solving and data-handling techniques.
-- Built dynamic web projects simulating real-world full-stack development scenarios.
-- Worked on interactive and user-friendly features.
+<br/>
 
----
+<!-- ======================= STATS ======================= -->
+## 📊 GitHub Stats
 
-🌐 CodeBind Technologies
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanit&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanit&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
+</div>
 
-Inplant Training – Web Development — Onsite
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sudhanit&theme=tokyonight&hide_border=true&border_radius=12" />
+</div>
 
-📅 November 2025 – December 2025
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanit&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
 
-Experience
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudhanit&theme=tokyonight&no-frame=true&margin-w=10" />
+</div>
 
-- Completed inplant training in Web Development.
-- Gained practical exposure to web development concepts.
-- Worked with real-world application development concepts.
-- Developed an understanding of professional development practices.
+<br/>
 
----
+<!-- ======================= LEARNING ======================= -->
+## 🌱 Currently Learning
 
-🚀 Featured Projects
+<details open>
+<summary><b>Click to collapse / expand</b></summary>
+<br/>
 
-🤖 1. Chatbot Application
+| 🧩 Core | 🌐 Web | 🤖 AI |
+|:--|:--|:--|
+| Java | HTML & CSS | Artificial Intelligence |
+| Python | JavaScript | Machine Learning |
+| SQL | Full Stack Development | Git & GitHub |
 
-An AI-powered chatbot application designed to interact with users and provide relevant responses to user queries.
+</details>
 
-🛠️ Technologies
+<br/>
 
-HTML
-CSS
-JavaScript
-Gemini API
+<!-- ======================= CONNECT ======================= -->
+## 🌐 Let's Connect
 
-✨ Key Features
+<div align="center">
 
-- 🤖 AI-powered chatbot interaction
-- 💬 User query handling
-- ⚡ Real-time message interaction
-- 📱 Simple responsive chat interface
-- 🌐 Gemini API integration
+<a href="https://www.linkedin.com/in/sudhan-m-73a3b6353/"><img src="https://img.shields.io/badge/LinkedIn-Sudhan%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/sudhanit"><img src="https://img.shields.io/badge/GitHub-sudhanit-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
----
+<br/><br/>
 
-👁️ 2. Face Recognition System
+<i>⭐ If you like my work, drop a star on my repos!</i>
 
-A computer vision-based face recognition system developed using Python and OpenCV to detect and recognize faces from images and real-time video streams.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
-🛠️ Technologies
-
-Python
-OpenCV
-TensorFlow / Keras
-NumPy
-Computer Vision
-
-✨ Key Features
-
-- 👤 Face detection
-- 🔍 Face recognition
-- 📷 Image processing
-- 🎥 Real-time video stream processing
-- 🧠 Face classification
-- ⚡ Automated recognition
-
----
-
-🧴 3. Intelligent Skin Care Detection System
-
-An AI-based system designed to analyze skin images and detect common skin conditions using image processing and machine learning techniques.
-
-🛠️ Technologies
-
-Python
-Machine Learning
-TensorFlow
-OpenCV
-Streamlit
-
-✨ Key Features
-
-- 🖼️ Skin image analysis
-- 🔍 Image preprocessing
-- 🤖 Machine learning classification
-- 🧠 TensorFlow-based processing
-- 🌐 Streamlit interface
-- 📊 User-friendly interaction
-
----
-
-🛠️ Technical Skills
-
-💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
-</p><p align="center">"Java" (https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-"C++" (https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-
-</p>---
-
-🌐 Web Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,django,flask,streamlit" />
-</p>Technologies
-
-HTML5
-CSS3
-JavaScript
-React.js
-Express.js
-Node.js
-Django
-Flask
-Streamlit
-
----
-
-🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>SQL / MySQL
-MongoDB
-
----
-
-🤖 AI / Machine Learning
-
-Machine Learning
-TensorFlow
-TensorFlow / Keras
-OpenCV
-Computer Vision
-NumPy
-Streamlit
-
----
-
-🧠 Core Skills
-
-<p align="center">"Problem Solving" (https://img.shields.io/badge/Problem%20Solving-Important-36BCF7?style=for-the-badge)
-
-"Teamwork" (https://img.shields.io/badge/Teamwork-Strong-36BCF7?style=for-the-badge)
-
-"Adaptability" (https://img.shields.io/badge/Adaptability-Strong-36BCF7?style=for-the-badge)
-
-"Quick Learning" (https://img.shields.io/badge/Quick%20Learning-Active-36BCF7?style=for-the-badge)
-
-"Time Management" (https://img.shields.io/badge/Time%20Management-Strong-36BCF7?style=for-the-badge)
-
-</p>---
-
-📜 Certifications
-
-🏅 Cryptography and Network Security
-
-NPTEL
-
----
-
-🏅 Frontend Developer
-
-Infosys
-
----
-
-🏅 Frontend Developer
-
-Infosys
-
----
-
-🏅 ReactJS for Beginners
-
-SkillUp
-
----
-
-📚 Currently Learning
-
-<p align="center"><img src="https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/React.js-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><img src="https://img.shields.io/badge/AI%2FML-Exploring-purple?style=for-the-badge"/><img src="https://img.shields.io/badge/Full%20Stack-Development-green?style=for-the-badge"/></p>---
-
-📊 GitHub Statistics
-
-<p align="center"><img
-src="https://github-readme-stats.vercel.app/api?username=sudhanit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanit&layout=compact&theme=tokyonight&hide_border=true"
-height="180"
-/>
-
-</p>---
-
-🔥 GitHub Streak
-
-<p align="center"><img
-src="https://streak-stats.demolab.com?user=sudhanit&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</p>---
-
-📈 Contribution Graph
-
-<p align="center"><img
-src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanit&theme=tokyo-night&hide_border=true&area=true"
-alt="Contribution Graph"
-/>
-
-</p>---
-
-🏆 GitHub Trophies
-
-<p align="center"><img
-src="https://github-profile-trophy.vercel.app/?username=sudhanit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-alt="GitHub Trophies"
-/>
-
-</p>---
-
-🧭 My Developer Journey
-
-                         🎓
-                  B.Tech Information
-                     Technology
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │   Programming       │
-              │ Java • Python • C++ │
-              │    JavaScript       │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │  Web Development    │
-              │ HTML • CSS • React  │
-              │ Node • Express      │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │     Databases       │
-              │ MySQL • MongoDB     │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │     AI / ML         │
-              │ TensorFlow • Keras  │
-              │ OpenCV • NumPy      │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │  Real-World Apps    │
-              │ Chatbot • Face      │
-              │ Recognition • AI    │
-              └──────────┬──────────┘
-                         │
-                         ▼
-                       🚀
-
----
-
-🌟 What I'm Working Towards
-
-💻 Full Stack Development
-        +
-🐍 Python Development
-        +
-🤖 Artificial Intelligence
-        +
-🧠 Machine Learning
-        +
-👁️ Computer Vision
-        +
-🚀 Real-World Software Projects
-
----
-
-🌐 Connect With Me
-
-<p align="center"><a href="https://github.com/sudhanit">
-  <img
-    src="https://img.shields.io/badge/GitHub-sudhanit-181717?style=for-the-badge&logo=github"
-    alt="GitHub"
-  />
-</a><a href="https://www.linkedin.com/in/sudhan-m-73a3b6353/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Sudhan%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a></p>---
-
-🌍 Languages
-
-<p align="center">"Tamil" (https://img.shields.io/badge/Tamil-Native-FF6B6B?style=for-the-badge)
-
-"English" (https://img.shields.io/badge/English-Professional-4ECDC4?style=for-the-badge)
-
-</p>---
-
-💡 Developer Mindset
-
-<p align="center">              ┌───────────────┐
-              │     LEARN     │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │      CODE     │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │     BUILD     │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │    IMPROVE    │
-              └───────┬───────┘
-                      │
-                      └──────────────► 🔁
-
-</p>---
-
-🚀 Thanks for Visiting My Profile!
-
-<p align="center">⭐ Code • Learn • Build • Improve ⭐
-
-Let's build practical and meaningful technology together!
-
-</p><p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"
-    width="100%"
-  />
-</p>
+</div>
