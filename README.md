@@ -1,89 +1,78 @@
 <!-- ======================= HEADER BANNER ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=230&section=header&text=Sudhan%20M&fontSize=62&fontColor=00ff9c&animation=fadeIn&fontAlignY=36&desc=%3C%20Full%20Stack%20Developer%20/%20AIML%20Enthusiast%20%3E&descSize=18&descColor=8be9fd&descAlignY=56" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sudhan%20M&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AIML%20Enthusiast&descSize=20&descAlignY=58" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=720&lines=whoami+%3E+Sudhan+M;stack+%3D+%5BJava%2C+Python%2C+SQL%5D;status+%3D+%22building+%2B+learning%22;echo+%22Welcome+to+my+profile%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%3E+B.Tech+Information+Technology;%3E+Java+%7C+Python+%7C+SQL;%3E+Building+AI+%2B+Web+Projects;%3E+Learning+something+new+every+day" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/sudhanit"><img src="https://komarev.com/ghpvc/?username=sudhanit&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge&labelColor=0d1117" /></a>
-<a href="https://github.com/sudhanit?tab=followers"><img src="https://img.shields.io/github/followers/sudhanit?label=FOLLOWERS&style=for-the-badge&color=8be9fd&labelColor=0d1117" /></a>
-<img src="https://img.shields.io/badge/LOCATION-Salem%2C%20Tamil%20Nadu-ff79c6?style=for-the-badge&labelColor=0d1117" />
+<a href="https://github.com/sudhanit"><img src="https://komarev.com/ghpvc/?username=sudhanit&label=Profile%20Views&color=0e75b6&style=for-the-badge" /></a>
+<a href="https://github.com/sudhanit?tab=followers"><img src="https://img.shields.io/github/followers/sudhanit?label=Followers&style=for-the-badge&color=8a2be2" /></a>
+<img src="https://img.shields.io/badge/Location-Salem%2C%20Tamil%20Nadu-ff69b4?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
 <br/>
 
 <!-- ======================= ABOUT ======================= -->
-## 📟 root@sudhan:~$ whoami
+## 👨‍💻 About Me
 
-<table width="100%">
-<tr><td>
-
-```yaml
-name: Sudhan M
-role: Aspiring Full Stack Developer
-education: B.Tech Information Technology
-location: Salem, Tamil Nadu, India
-focus: [Artificial Intelligence, Machine Learning, Problem Solving]
-improving: [Java, Python, SQL, Web Development]
-motto: "Build real projects. Learn in public. Repeat." 🚀
+```json
+{
+  "name": "Sudhan M",
+  "role": "Aspiring Full Stack Developer",
+  "education": "B.Tech Information Technology",
+  "location": "Salem, Tamil Nadu, India",
+  "interests": ["Artificial Intelligence", "Machine Learning", "Problem Solving"],
+  "currentlyImproving": ["Java", "Python", "SQL", "Web Development"],
+  "motto": "Build real projects. Learn in public. Repeat. 🚀"
+}
 ```
-
-</td></tr>
-</table>
 
 <br/>
 
 <!-- ======================= TECH STACK ======================= -->
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js&theme=dark" />
-
-**Web**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,nodejs&theme=dark" />
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" />
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" />
+| Category | Technologies |
+|:--|:--|
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" /> |
+| 🌐 **Web** | <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,nodejs" /> |
+| 🗄️ **Database** | <img src="https://skillicons.dev/icons?i=mysql,firebase" /> |
+| 🤖 **AI / ML** | <img src="https://skillicons.dev/icons?i=python,tensorflow" /> |
+| 🔧 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" /> |
 
 </div>
 
 <br/>
 
 <!-- ======================= PROJECTS ======================= -->
-## 🚀 Featured Builds
+## 🚀 Featured Projects
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧴 Skin Care Detection
-Detects skin-related conditions via image processing + ML.
+Detects skin-related conditions using image processing and machine learning.
 
-`Python` `Machine Learning` `Image Processing`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-8A2BE2?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🍔 FoodFlow
-Food ordering & management web app — ordering, billing, order tracking.
+Food ordering and management web app for easy ordering, billing and order tracking.
 
-`HTML` `CSS` `JavaScript` `Node.js`
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </td>
 </tr>
@@ -91,9 +80,12 @@ Food ordering & management web app — ordering, billing, order tracking.
 <td width="50%" valign="top">
 
 ### 💧 AquaGuard IoT
-Smart sewage monitoring & water-quality prediction to flag risks early.
+Smart sewage monitoring and water quality prediction to flag risks early.
 
-`Python` `IoT` `LSTM` `Streamlit`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -101,67 +93,72 @@ Smart sewage monitoring & water-quality prediction to flag risks early.
 ### 📄 RAG PDF Q&A Bot
 Upload a PDF and ask questions about it using retrieval-augmented generation.
 
-`Python` `Streamlit` `FAISS` `RAG`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<a href="https://github.com/sudhanit?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories-%E2%86%92-00ff9c?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://github.com/sudhanit?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories-%E2%86%92-36BCF7?style=for-the-badge" /></a>
 </div>
 
 <br/>
 
 <!-- ======================= STATS ======================= -->
-## 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanit&show_icons=true&theme=dracula&hide_border=true&border_radius=12&bg_color=0d1117" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanit&layout=compact&theme=dracula&hide_border=true&border_radius=12&bg_color=0d1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanit&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanit&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sudhanit&theme=dark&hide_border=true&border_radius=12&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=sudhanit&theme=tokyonight&hide_border=true&border_radius=12" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanit&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanit&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudhanit&theme=dracula&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sudhanit&theme=tokyonight&no-frame=true&margin-w=10" />
 </div>
 
 <br/>
 
 <!-- ======================= LEARNING ======================= -->
-## 🌱 Currently Compiling
+## 🌱 Currently Learning
 
-<div align="center">
+<details open>
+<summary><b>Click to collapse / expand</b></summary>
+<br/>
 
 | 🧩 Core | 🌐 Web | 🤖 AI |
-|:--:|:--:|:--:|
+|:--|:--|:--|
 | Java | HTML & CSS | Artificial Intelligence |
 | Python | JavaScript | Machine Learning |
-| SQL | Full Stack Dev | Git & GitHub |
+| SQL | Full Stack Development | Git & GitHub |
 
-</div>
+</details>
 
 <br/>
 
 <!-- ======================= CONNECT ======================= -->
-## 🌐 Connect
+## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sudhan-m-73a3b6353/"><img src="https://img.shields.io/badge/LinkedIn-Sudhan%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://github.com/sudhanit"><img src="https://img.shields.io/badge/GitHub-sudhanit-00ff9c?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/sudhan-m-73a3b6353/"><img src="https://img.shields.io/badge/LinkedIn-Sudhan%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/sudhanit"><img src="https://img.shields.io/badge/GitHub-sudhanit-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<i>⭐ If something here is useful, a star on the repo goes a long way.</i>
+<i>⭐ If you like my work, drop a star on my repos!</i>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 </div>
